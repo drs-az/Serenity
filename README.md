@@ -43,7 +43,7 @@ Serenity is configured with a detailed system prompt that includes:
 - Conversation safety protocols
 - Structured session flow
 
-The full system prompt is included on the [landing page](#) and in the `/prompt` section of this project.
+The full system prompt is included on the [landing page](https://drs-az.github.io/Serenity/) and in the `/prompt` section of this project.
 
 ---
 
