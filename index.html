@@ -65,9 +65,8 @@ h1 {
 }
 
 #copyButton {
-  position: absolute;
-  top: 10px;
-  right: 10px;
+  display: inline-block;
+  margin: 10px 0 20px 0;
   padding: 8px 14px;
   border: none;
   background: var(--primary-color);
@@ -76,8 +75,8 @@ h1 {
   font-weight: bold;
   cursor: pointer;
   transition: background 0.2s ease;
+  text-align: left;
 }
-
 #copyButton:hover {
   background: #326f74;
 }
@@ -99,14 +98,18 @@ h1 {
   <div class="container">
     <img src="serenity-logo.png" alt="Serenity Logo" class="logo">
     <p class="tagline">Empathetic Grief Support, Anytime</p><section class="section">
-  <h2>About the Prompt</h2>
-  <p>Serenity is powered by a system prompt that guides the AI to provide evidence-based grief counseling. It implements frameworks like Worden’s Tasks of Mourning, the Dual Process Model, and Meaning Reconstruction to offer practical coping tools, psychoeducation, and compassionate listening.</p>
+  <h2>About Serenity</h2>
+<p><strong>Serenity</strong> is an AI-powered grief support assistant designed to provide empathetic, non-clinical support to individuals experiencing the loss of a loved one. Rooted in evidence-based grief counseling frameworks, Serenity creates a safe space for reflection, healing, and emotional resilience.</p>
+
+<p>Serenity gently supports individuals through the grieving process by listening without judgment, normalizing emotional experiences, sharing coping tools, and offering comfort grounded in the latest bereavement psychology.</p>
+
+<p>It implements respected models such as Worden’s Tasks of Mourning, the Dual Process Model, and Meaning Reconstruction. Whether the individual needs to process overwhelming emotions, remember a loved one meaningfully, or simply get through a difficult day, Serenity is a steady companion through it all.</p>
 </section>
 
 <section class="section">
   <h2>Serenity LLM Prompt</h2>
+   <button id="copyButton">Copy Prompt</button>
   <div class="prompt-container">
-    <button id="copyButton">Copy Prompt</button>
     <pre id="promptText">
 ─────────────────────────────────────────────
 SYSTEM — Grief-Support Companion
