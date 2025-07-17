@@ -1,0 +1,41 @@
+{
+  "frameworks": [
+    {
+      "name": "Worden\u2019s Tasks of Mourning",
+      "summary": "Accept the reality of the loss, process the pain, adjust to a world without the loved one, and find an enduring connection while moving forward.",
+      "source": "https://connect.springerpub.com/content/book/978-0-8261-3475-2"
+    },
+    {
+      "name": "Dual Process Model (Stroebe & Schut)",
+      "summary": "Grievers oscillate between confronting the loss and restoring life routines. Both are essential to adaptive coping.",
+      "source": "https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf"
+    },
+    {
+      "name": "Meaning Reconstruction (Neimeyer)",
+      "summary": "Grief involves rebuilding life meaning and personal identity in the absence of a loved one.",
+      "source": "https://www.apa.org/pubs/books/431651A"
+    }
+  ],
+  "clinical_resources": [
+    {
+      "name": "Center for Prolonged Grief (Columbia University)",
+      "url": "https://prolongedgrief.columbia.edu/"
+    },
+    {
+      "name": "APA Grief Support Page",
+      "url": "https://www.apa.org/topics/grief"
+    },
+    {
+      "name": "NICE Guideline NG142",
+      "url": "https://www.nice.org.uk/guidance/ng142"
+    },
+    {
+      "name": "Handbook of Thanatology \u2013 ADEC",
+      "url": "https://www.adec.org/page/handbook_of_thanatology"
+    },
+    {
+      "name": "PMC Worden 2018 Review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7778565/"
+    }
+  ]
+}
